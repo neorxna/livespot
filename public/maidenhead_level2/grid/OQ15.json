@@ -1,0 +1,10 @@
+    {
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+{"geometry":{"type":"Polygon","coordinates":[[[102,75],[104,75],[104,76],[102,76],[102,75]]]},"type":"Feature","properties":{"label":"OQ15"}}
+    ]
+}

@@ -1,0 +1,10 @@
+    {
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+{"geometry":{"type":"Polygon","coordinates":[[[126,-18],[128,-18],[128,-17],[126,-17],[126,-18]]]},"type":"Feature","properties":{"label":"PH32"}}
+    ]
+}

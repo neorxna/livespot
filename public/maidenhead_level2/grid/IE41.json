@@ -1,0 +1,10 @@
+    {
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+{"geometry":{"type":"Polygon","coordinates":[[[-12,-49],[-10,-49],[-10,-48],[-12,-48],[-12,-49]]]},"type":"Feature","properties":{"label":"IE41"}}
+    ]
+}
